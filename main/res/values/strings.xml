@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Uni 13033</string>
+    <string name="hint_name">NAME</string>
+    <string name="help">Select a number then press the send message and wait for a confirmation SMS</string>
+    <string name="hint_address">ADDRESS</string>
+    <string name="email_text">Enter Email</string>
+    <string name="password_text">Enter Password</string>
+    <string name="button_name_login">Log In</string>
+    <string name="button_name_singUp">Sign Up</string>
+    <string name="button_name_logout">Log Out</string>
+    <string name="button_name_send">Send Message to 13033</string>
+    <string name="button_edit_options">Edit Options</string>
+    <string name="button_change_language">Change Language</string>
+    <string name="button_update_info">Update Info</string>
+    <string name="choice_1">1. Pharmacy, Doctor, Blood Donation</string>
+    <string name="choice_2">2. Super Market, Seasonal Shops, Click Away</string>
+    <string name="choice_3">3. Public Service, Bank</string>
+    <string name="choice_4">4. Provide Help, Escort Minors</string>
+    <string name="choice_5">5. Funeral, Custody Transfer</string>
+    <string name="choice_6">6. Physical Exercise, Pet Walk, Participation in Gatherings</string>
+    <string name="hint_update">To store changed info, click the update button</string>
+    <string name="button_confirm_register">Confirm</string>
+</resources>
